@@ -1,0 +1,5 @@
+projectKey=com.flotos.archetype:maven-archetype-quickstart
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.flotos.archetype:maven-archetype-quickstart
+ceTaskId=AV7xSsQZj4cltdtZid7M
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV7xSsQZj4cltdtZid7M
